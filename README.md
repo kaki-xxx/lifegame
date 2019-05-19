@@ -14,4 +14,6 @@ go build
 
 # Demo
 
+```
 ./lifegame demo.csv
+```
